@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="[LINK-PARA-SEU-BANNER-PERSONALIZADO]" alt="Banner do Perfil"/>
+ 
   <br>
   <h1>
-    <b>Oi, eu sou o Heitor</b>
+    <b>Heitor Luiz</b>
   </h1>
   <h3>
-    Sou Estagiário na área de TI
+     Estagiário na área de TI
   </h3>
   <p align="center">
     Desenvolvendo soluções criativas e eficientes para problemas complexos.
     <br />
-    Bem-vindo(a) ao meu espaço de experimentação digital.
+    QA | Desenvolvedor
   </p>
 </div>
 
@@ -38,15 +38,6 @@
 
 ---
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heitorrls&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=4D85E4&icon_color=4D85E4&text_color=FFF&bg_color=0D1117" alt="Estatísticas do GitHub" style="height: 180px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-AQUI&layout=compact&langs_count=7&theme=github_dark&title_color=4D85E4&text_color=FFF&bg_color=0D1117" alt="Linguagens Mais Usadas" style="height: 180px;"/>
-</div>
-
----
-
 ## 📂 Meus Projetos Principais
 
 <div align="center">
@@ -67,8 +58,4 @@
 </div>
 <br>
 
-<div align="center">
-  <p>
-    Criado com inspiração e linhas de código.
-  </p>
-</div>
+

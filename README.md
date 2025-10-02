@@ -8,7 +8,6 @@
      Estagiário na área de TI
   </h3>
   <p align="center">
-    Desenvolvendo soluções criativas e eficientes para problemas complexos.
     <br />
     QA | Desenvolvedor
   </p>

@@ -9,7 +9,7 @@
   </h3>
   <p align="center">
     <br />
-    QA | Desenvolvedor
+    QA | Desenvolvedor Software | Analista de Dados
   </p>
 </div>
 

@@ -28,17 +28,53 @@
 
 ## 📂 Meus Projetos Principais
 
-* **[🏨 Sistema Hoteleiro](https://github.com/heitorrls/Hotel.git)**
-  > Sistema criado para controle de clientes e controle de quartos para um hotel real. Esse sistema foi realizado com trabalho em equipe.
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <b>🏨 Sistema Hoteleiro</b><br><br>
+      Sistema criado para controle de clientes e quartos para um hotel real. Criado em <b>trabalho em equipe</b>.<br><br>
+      <a href="https://github.com/heitorrls/Hotel.git">
+        <img src="https://img.shields.io/badge/REPOSITÓRIO-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositório">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <b>📅 Agenda Online</b><br><br>
+      Agenda online para registrar data e horário dos atendimentos de <b>psicólogos</b> de forma prática.<br><br>
+      <a href="https://github.com/heitorrls/Agenda-online.git">
+        <img src="https://img.shields.io/badge/REPOSITÓRIO-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositório">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>📦 Inventário com Tailwind</b><br><br>
+      Sistema para controle de produtos em estoque com funcionalidade de <b>cadastrar e deletar</b> informações.<br><br>
+      <a href="https://github.com/heitorrls/Sistema_Inventario.git">
+        <img src="https://img.shields.io/badge/REPOSITÓRIO-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositório">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <b>👥 Sistema de Cadastro</b><br><br>
+      Projeto focado com funcionalidades completas de <b>CRUD</b> (cadastrar, editar e deletar) em uma tabela.<br><br>
+      <a href="https://github.com/heitorrls/CRUD.git">
+        <img src="https://img.shields.io/badge/REPOSITÓRIO-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositório">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>🎵 Reprodutor de Música</b><br><br>
+      Esse projeto consiste em um <b>reprodutor de música online</b> direto no navegador.<br><br>
+      <a href="https://github.com/heitorrls/Tabely.git">
+        <img src="https://img.shields.io/badge/REPOSITÓRIO-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositório">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <b>🚀 Em Breve</b><br><br>
+      Novos projetos estão sendo desenvolvidos e em breve estarão disponíveis aqui.<br><br>
+      <img src="https://img.shields.io/badge/AGUARDE-1E1E1E?style=for-the-badge&logoColor=white" alt="Em Breve">
+    </td>
+  </tr>
+</table>
 
-* **[📅 Agenda Online](https://github.com/heitorrls/Agenda-online.git)**
-  > Agenda online para registrar data e horário dos atendimentos de psicólogos.
-
-* **[📦 Inventário com Tailwind](https://github.com/heitorrls/Sistema_Inventario.git)**
-  > Sistema criado para controle de produtos em um estoque com funcionalidade de cadastrar e deletar informações dentro da tabela.
-
-* **[👥 Sistema de Cadastro de Pessoas](https://github.com/heitorrls/CRUD.git)**
-  > Projeto de cadastro de pessoas com funcionalidades de cadastrar, editar e deletar informações em uma tabela.
-
-* **[🎵 Reprodutor de Música](https://github.com/heitorrls/Tabely.git)**
-  > Esse projeto consiste em um reprodutor de música online.
+<br/>

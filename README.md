@@ -48,7 +48,22 @@
         <a href="https://github.com/heitorrls/Hotel.git"><strong>🔗 Ver Repositório</strong></a>
       </td>
       <td>
-        <h3 align="center">Projeto 2: Reprodutor de música</h3>
+        <h3 align="center">Projeto 2: Agenda Online</h3>
+        <p>Agenda online para registrar data e horário dos atendimentos de psicológos</p>
+        <a href="https://github.com/heitorrls/Agenda-online.git"><strong>🔗 Ver Repositório</strong></a>
+      </td>
+      <td>
+        <h3 align="center">Projeto 3: Inventário com tailwind</h3>
+        <p>Sistema criado para controle de produtos em um estoque com funcionalidade de cadastrar e deletar informações dentro da tabela</p>
+        <a href="https://github.com/heitorrls/Sistema_Inventario.git"><strong>🔗 Ver Repositório</strong></a>
+      </td>
+      <td>
+        <h3 align="center">Projeto 4: Sistema de Cadastro de Pessoas</h3>
+        <p>Esse é um projeto de cadastro de pessoas com funcionalidades de cadastrar, editar e deletar informações em uma tabela.</p>
+        <a href="https://github.com/heitorrls/CRUD.git"><strong>🔗 Ver Repositório</strong></a>
+      </td>
+      <td>
+        <h3 align="center">Projeto 5: Reprodutor de música</h3>
         <p>Esse projeto se consiste em um reprodutor de música online.</p>
         <a href="https://github.com/heitorrls/Tabely.git"><strong>🔗 Ver Repositório</strong></a>
       </td>

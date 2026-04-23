@@ -70,9 +70,11 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <b>🚀 Em Breve</b><br><br>
-      Novos projetos estão sendo desenvolvidos e em breve estarão disponíveis aqui.<br><br>
-      <img src="https://img.shields.io/badge/AGUARDE-1E1E1E?style=for-the-badge&logoColor=white" alt="Em Breve">
+      <b>👨‍💻 CodeWise</b><br><br>
+      Projeto de Conclusão de Curso. Sistema de Gamificação de Aprendizado de JavaScript. Gerenciamento ágil estruturado com <b>Azure DevOps</b>, envolvendo organização de backlogs, épicos e sprints quinzenais.<br><br>
+      <a href="https://github.com/heitorrls/CodeWise.git">
+        <img src="https://img.shields.io/badge/REPOSITÓRIO-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositório">
+      </a>
     </td>
   </tr>
 </table>

@@ -5,7 +5,7 @@
     <b>Heitor Luiz</b>
   </h1>
   <h3>
-     Estagiário na área de TI
+     Júnior
   </h3>
   <p align="center">
     <br />

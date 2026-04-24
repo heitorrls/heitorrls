@@ -72,7 +72,7 @@
     <td width="50%" align="center">
       <b>🎓 CodeWise (TCC)</b><br><br>
       Projeto de Conclusão de Curso. Gerenciamento ágil estruturado com <b>Azure DevOps</b>, envolvendo organização de backlogs, épicos e sprints quinzenais.<br><br>
-      <a href="SEU_LINK_DO_TCC_AQUI">
+      <a href="https://github.com/heitorrls/CodeWise.git">
         <img src="https://img.shields.io/badge/REPOSITÓRIO-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositório">
       </a>
     </td>
@@ -81,14 +81,14 @@
     <td width="50%" align="center">
       <b>📊 Algoritmo ShellSort</b><br><br>
       Implementação em Python e análise de desempenho do algoritmo de ordenação <b>ShellSort</b>, com geração de gráficos comparativos para diferentes conjuntos de dados.<br><br>
-      <a href="SEU_LINK_DO_SHELLSORT_AQUI">
+      <a href="https://github.com/heitorrls/ShellSort.git">
         <img src="https://img.shields.io/badge/REPOSITÓRIO-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositório">
       </a>
     </td>
     <td width="50%" align="center">
       <b>🤖 Análise de E-commerce com IA</b><br><br>
       Case técnico focado em dados de e-commerce. Desenvolvido com <b>Python e Pandas</b>, apresentando um dashboard interativo em <b>Streamlit/Plotly</b> integrado ao <b>Google Generative AI</b>.<br><br>
-      <a href="SEU_LINK_DO_DDF_TECH_AQUI">
+      <a href="https://github.com/heitorrls/HEITOR_MIRANDA_DDF_TECH_0126.git">
         <img src="https://img.shields.io/badge/REPOSITÓRIO-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositório">
       </a>
     </td>
